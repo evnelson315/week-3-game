@@ -1,6 +1,6 @@
 body {
-	background-image: url("Solar-U4-Belt-of-Dust.jpg");
-	 -webkit-background-size: cover;
+	background-image: <img src="assets/images/Solar-U4-Belt-of-Dust.jpg">;
+	-webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
@@ -18,3 +18,4 @@ footer {
 	bottom: 0px;
 	text-align: center;
 }
+
